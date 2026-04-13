@@ -1,0 +1,9 @@
+[project]
+name = "login2cug"
+version = "0.1.0"
+description = "cug校园网需要网页登录对于树莓派这种嵌入式设备很不方便，因此提供两套登录cug校园网的脚本。"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "playwright>=1.58.0",
+]
