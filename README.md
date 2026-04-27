@@ -35,8 +35,8 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/cug-auto-login.git
-   cd cug-auto-login
+   git clone https://github.com/skywalkerch/login2cug.git
+   cd login2cug
    ```
 
 2. 使用uv安装依赖：
